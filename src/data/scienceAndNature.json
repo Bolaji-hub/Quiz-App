@@ -1,0 +1,182 @@
+[
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the &quot;powerhouse&quot; of the Eukaryotic animal cell?",
+    "correct_answer": "Mitochondria",
+    "incorrect_answers": [
+      "Nucleus",
+      "Chloroplast",
+      "Endoplasmic Reticulum"
+    ]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of these stars is the largest?",
+    "correct_answer": "UY Scuti",
+    "incorrect_answers": [
+      "VY Canis Majoris",
+      "Betelgeuse",
+      "RW Cephei"
+    ]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How many planets make up our Solar System?",
+    "correct_answer": "8",
+    "incorrect_answers": [
+      "7",
+      "9",
+      "6"
+    ]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "All the following metal elements are liquids at or near room temperature EXCEPT:",
+    "correct_answer": "Beryllium",
+    "incorrect_answers": [
+      "Gallium",
+      "Caesium",
+      "Mercury"
+    ]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Where did the dog breed &quot;Chihuahua&quot; originate?",
+    "correct_answer": "Mexico",
+    "incorrect_answers": [
+      "France",
+      "Spain",
+      "Russia"
+    ]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which one of these is scientific term for &quot;Brain Freeze&quot;?",
+    "correct_answer": "Sphenopalatine Ganglioneuralgia",
+    "incorrect_answers": [
+      "Hyacinthoides Italica",
+      "Amaranthus Retroflexus",
+      "Amblyomma Americanum"
+    ]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "After which Danish city is the 72th element on the periodic table named?",
+    "correct_answer": "Copenhagen",
+    "incorrect_answers": [
+      "Odense",
+      "Herning",
+      "Skagen"
+    ]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "At what temperature does water boil?",
+    "correct_answer": "212&deg;F",
+    "incorrect_answers": [
+      "200&deg;F",
+      "181&deg;F",
+      "178&deg;F"
+    ]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the standard atomic weight of a Plutonium nucleus?",
+    "correct_answer": "244",
+    "incorrect_answers": [
+      "94",
+      "481",
+      "128"
+    ]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the unit of electrical resistance?",
+    "correct_answer": "Ohm",
+    "incorrect_answers": [
+      "Mho",
+      "Tesla",
+      "Joule"
+    ]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Burning which of these metals will produce a bright white flame?",
+    "correct_answer": "Magnesium",
+    "incorrect_answers": [
+      "Copper",
+      "Lithium",
+      "Lead"
+    ]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "How many protons are in an oxygen atom?",
+    "correct_answer": "Eight",
+    "incorrect_answers": [
+      "Four",
+      "Two",
+      "Six"
+    ]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of these Elements is a metalloid?",
+    "correct_answer": "Antimony",
+    "incorrect_answers": [
+      "Tin",
+      "Bromine",
+      "Rubidium"
+    ]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the Scoville scale, what is the hottest chemical?",
+    "correct_answer": "Resiniferatoxin",
+    "incorrect_answers": [
+      "Capsaicin",
+      "Dihydrocapsaicin",
+      "Tinyatoxin"
+    ]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the atomic mass of Carbon?",
+    "correct_answer": "12",
+    "incorrect_answers": [
+      "14",
+      "16",
+      "10"
+    ]
+  }
+]

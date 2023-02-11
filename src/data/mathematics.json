@@ -1,0 +1,182 @@
+[
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the punishment for playing Postal 2 in New Zealand?",
+    "correct_answer": "10 years in prison and a fine of $50,000",
+    "incorrect_answers": [
+      "Fine of $5,000",
+      "Nothing",
+      "15 years in prison and a fine of $10,000"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of these TrackMania environments was NOT in the original game?",
+    "correct_answer": "Bay",
+    "incorrect_answers": [
+      "Desert",
+      "Snow",
+      "Rally"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who&#039;s the voice actor for Thrall in the Warcraft game series?",
+    "correct_answer": "Chris Metzen",
+    "incorrect_answers": [
+      "Ben Affleck",
+      "Jason Derulo",
+      "Jim Carrey"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is Gabe Newell&#039;s favorite class in Team Fortress 2?",
+    "correct_answer": "Spy",
+    "incorrect_answers": [
+      "Heavy",
+      "Medic",
+      "Pyro"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What company created and developed the game &quot;Overwatch&quot;?",
+    "correct_answer": "Blizzard Entertainment",
+    "incorrect_answers": [
+      "Valve",
+      "Hi-Rez Studios",
+      "Gearbox Software"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the National Pokedex what number is Porygon-Z?",
+    "correct_answer": "474",
+    "incorrect_answers": [
+      "376",
+      "432",
+      "589"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In TF2 Lore, what are the names of the Heavy&#039;s younger sisters?",
+    "correct_answer": "Yana and Bronislava",
+    "incorrect_answers": [
+      "Gaba and Anna",
+      "Yanna and Gaba",
+      "Anna and Bronislava"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What year was Super Mario Bros. released?",
+    "correct_answer": "1985",
+    "incorrect_answers": [
+      "1983",
+      "1987",
+      "1986"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How much did the indie game &quot;Cave Story&quot; cost when it was first released in 2004?",
+    "correct_answer": "$0 USD",
+    "incorrect_answers": [
+      "$5 USD",
+      "$10 USD",
+      "$15 USD"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the creature that the main character befriends in &quot;The Last Guardian&quot;?",
+    "correct_answer": "Trico",
+    "incorrect_answers": [
+      "Nico",
+      "Wolf",
+      "Andazi"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is not a playable race in &quot;Final Fantasy XIV: A Realm Reborn&quot;?",
+    "correct_answer": "Hume",
+    "incorrect_answers": [
+      "Miqo&#039;te",
+      "Lalafell",
+      "Roegadyn"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In Left 4 Dead, which campaign has the protagonists going through a subway in order to reach a hospital for evacuation?",
+    "correct_answer": "No Mercy",
+    "incorrect_answers": [
+      "Subway Sprint",
+      "Hospital Havoc",
+      "Blood Harvest"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of the following games has the most playable characters?",
+    "correct_answer": "Timesplitters: Future Perfect",
+    "incorrect_answers": [
+      "Mortal Kombat: Armageddon",
+      "Marvel Vs. Capcom 2",
+      "Dragon Ball Z: Budokai Tenkaichi 3"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who was Tetris created by?",
+    "correct_answer": "Alexey Pajitnov",
+    "incorrect_answers": [
+      "Toru Iwatani",
+      "Allan Alcorn",
+      "William Higinbotham"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the lowest amount of max health you can have in Team Fortress 2?",
+    "correct_answer": "70",
+    "incorrect_answers": [
+      "100",
+      "50",
+      "95"
+    ]
+  }
+]
