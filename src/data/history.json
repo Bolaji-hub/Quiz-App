@@ -1,0 +1,182 @@
+[
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of these countries was sea charted in 1500 by the Portuguese maritime explorations?",
+    "correct_answer": "Brazil",
+    "incorrect_answers": [
+      "India",
+      "Mozambique",
+      "Madagascar"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "According to scholarly estimates, what percentage of the world population at the time died due to Tamerlane&#039;s conquests?",
+    "correct_answer": "5%",
+    "incorrect_answers": [
+      "1%",
+      "3%",
+      "&lt;1%"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which infamous European traitor was known as &quot;the last person to enter Parliament with honest intentions&quot;?",
+    "correct_answer": "Guy Fawkes",
+    "incorrect_answers": [
+      "Robert Catesby",
+      "Francis Tresham",
+      "Everard Digby"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In which year did the First World War begin?",
+    "correct_answer": "1914",
+    "incorrect_answers": [
+      "1930",
+      "1917",
+      "1939"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which building was set aflame on August 24th, 1812?",
+    "correct_answer": "The White House",
+    "incorrect_answers": [
+      "Parliament Building",
+      "Grand National Assembly Building",
+      "Palace of the Nation"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "When did Norway get its constitution?",
+    "correct_answer": "1814",
+    "incorrect_answers": [
+      "1932",
+      "1905",
+      "1854"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who was the first president born in the independent United States?",
+    "correct_answer": "Martin Van Buren",
+    "incorrect_answers": [
+      "John Adams",
+      "George Washington",
+      "James Monroe "
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which U.S. president took part in the Potsdam Conference, where the Allies reached a peace settlement with Germany?",
+    "correct_answer": "Harry S. Truman",
+    "incorrect_answers": [
+      "Dwight D. Eisenhower",
+      "Franklin D. Roosevelt",
+      "Herbert Hoover"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In what year did Kentucky become the 15th state to join the union?",
+    "correct_answer": "1792",
+    "incorrect_answers": [
+      "1782",
+      "1798",
+      "1788"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "When was the People&#039;s Republic of China founded?",
+    "correct_answer": "October 1, 1949",
+    "incorrect_answers": [
+      "April 3, 1947",
+      "May 7, 1945",
+      "December 6, 1950"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of the following Presidents of the United States was assassinated?",
+    "correct_answer": "William McKinley",
+    "incorrect_answers": [
+      "Lyndon Johnson",
+      "Chester Arthur",
+      "Franklin Roosevelt"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who crowned Charlemagne as Holy Roman Emperor on Christmas Day in 800?",
+    "correct_answer": "Pope Leo III",
+    "incorrect_answers": [
+      "Pope Urban IV",
+      "Pope Stephen V",
+      "Pope Valentine"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who was the first Chancellor of a united Germany in 1871? ",
+    "correct_answer": "Otto Von Bismark",
+    "incorrect_answers": [
+      "Kaiser Wilhelm ",
+      "Fredrick the 2nd",
+      "Robert Koch"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "When did O, Canada officially become the national anthem?",
+    "correct_answer": "1980",
+    "incorrect_answers": [
+      "1950",
+      "1920",
+      "1880"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The Thirty Years War ended with which treaty?",
+    "correct_answer": "Peace of Westphalia",
+    "incorrect_answers": [
+      "Treaty of Versailles",
+      "Treaty of Paris",
+      "Peace of Prague"
+    ]
+  }
+]

@@ -26,14 +26,21 @@ import quizes from '../data/quizes';
 <style scoped> 
 .container {
   max-width: 1000px;
+  padding-left: 1vw;
+  padding-right: 1vw;
   margin: 0 auto;
 }
 header {
-  margin-top: 30px;
-  margin-bottom: 10px;
+  padding: 1rem;
   display: flex;
   align-items: center;
   justify-content: center;
+
+  position: sticky;
+  top: 0;
+  background-color: white;
+  z-index: 1;
+
 }
 
 header h1 {
@@ -53,20 +60,21 @@ header input {
 .option-container {
   display: flex;
   margin-top: 40px;
+  gap: 2.5rem 2rem;
   flex-wrap: wrap;
 }
 
 .card {
-  width: 310px;
+  flex-basis: 300px;
   overflow: hidden;
   border-radius: 2%;
   box-shadow: 1px 1px 10px rgba(0,0,0,0.1);
-  margin-right: 20px;
   cursor: pointer;
 }
 
 .card h2 {
   text-transform: capitalize;
+  margin-top: 0;
 }
 
 .card img {
@@ -76,8 +84,7 @@ header input {
 }
 
 .card .card-text {
-  padding: 0 5px;
-  color: bisque;
+  padding: .5rem 1rem;
 }
 
 .card .card-text h2{

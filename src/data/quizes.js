@@ -1,5 +1,8 @@
 import mathematics from './mathematics.json'
 import scienceAndNature from './scienceAndNature.json'
+import history from './history.json'
+import computerScience from './computer.json'
+import animals from './animals.json'
 
 export default {
   mathematics: {
@@ -7,7 +10,19 @@ export default {
     questions: mathematics
   },
   "science and nature": {
-    image: '',
+    image: 'https://media.istockphoto.com/id/501772598/photo/fern-leaves.jpg?s=612x612&w=0&k=20&c=85YrX43o4B5cwy1hbBAVSgE4Bu9Sh8-Ac-nIDzB5bCs=',
     questions: scienceAndNature
-  }
+  },
+  history: {
+    image: 'https://images.unsplash.com/photo-1604580864964-0462f5d5b1a8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aGlzdG9yeXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=2000&q=60',
+    questions: history
+  },
+  "computer science": {
+    image: 'https://images.unsplash.com/photo-1555949963-aa79dcee981c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGNvbXB1dGVyJTIwc2NpZW5jZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=2000&q=60',
+    questions: computerScience
+  },
+  animals: {
+    image: 'https://media.istockphoto.com/id/1347624931/photo/orang-utan.jpg?s=612x612&w=0&k=20&c=fJIxZ_KI8bpD5Ykz0tsUnFr9FqyOktUXdUSN9JeIsFw=',
+    questions: animals
+  },
 }
