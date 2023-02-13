@@ -5,18 +5,17 @@ import quizes from '../data/quizes';
 <template>
   <div class="container">
     <header>
-      <h1>Quizes</h1>
+      <h1>Quizzes</h1>
       <input type="text" placeholder="Search..">
     </header>
     <div class="option-container">
-      <div v-for="(quiz, category) in quizes" :key="category" class="card">
+      <RouterLink :to="`/category/${category}`" v-for="(quiz, category) in quizes" :key="category" class="card">
         <img :src="quiz.image" alt="">
         <div class="card-text">
           <h2>{{ category }}</h2>
           <p>{{ quiz.questions.length }} questions</p>
         </div>
-
-      </div>
+      </RouterLink>
 
     </div>
 
