@@ -1,15 +1,27 @@
 <script setup>
 import quizes from '../data/quizes';
+import { ref, computed } from 'vue';
+
+const search = ref("")
+const filteredQuizes = computed(() => {
+  if (search.value) {
+    const q = Object.entries(quizes).filter(([key]) => key.includes(search.value))
+    return Object.fromEntries(q)
+  }
+
+  return quizes
+
+})
 </script>
 
 <template>
   <div class="container">
     <header>
       <h1>Quizzes</h1>
-      <input type="text" placeholder="Search..">
+      <input v-model.trim="search" type="text" placeholder="Search..">
     </header>
     <div class="option-container">
-      <RouterLink :to="`/category/${category}`" v-for="(quiz, category) in quizes" :key="category" class="card">
+      <RouterLink :to="`/category/${category}`" v-for="(quiz, category) in filteredQuizes" :key="category" class="card">
         <img :src="quiz.image" alt="">
         <div class="card-text">
           <h2>{{ category }}</h2>
@@ -66,6 +78,8 @@ header input {
 .card {
   flex-basis: 300px;
   overflow: hidden;
+  text-decoration: none;
+  color: currentColor;
   border-radius: 2%;
   box-shadow: 1px 1px 10px rgba(0,0,0,0.1);
   cursor: pointer;
