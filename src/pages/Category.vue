@@ -154,8 +154,8 @@ main {
 }
 .link {
   color: #6a5ae0;
-  padding: 5px;
-  margin: 5px;
+  padding: 25px;
+  margin: 20px;
   text-decoration: none;
   cursor: pointer;
 }
