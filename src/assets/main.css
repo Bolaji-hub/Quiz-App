@@ -1,2 +1,10 @@
-@import './base.css';
+@import "./base.css";
 
+.container {
+  padding-left: 2vw;
+  padding-right: 2vw;
+
+  max-width: min(1200px, 80vw);
+
+  margin: auto;
+}
