@@ -1,40 +1,44 @@
 <script setup>
-import quizes from '../data/quizes';
-import { ref, computed } from 'vue';
+import quizes from "../data/quizes";
+import { ref, computed } from "vue";
 
-const search = ref("")
+const search = ref("");
 const filteredQuizes = computed(() => {
   if (search.value) {
-    const q = Object.entries(quizes).filter(([key]) => key.includes(search.value))
-    return Object.fromEntries(q)
+    const q = Object.entries(quizes).filter(([key]) =>
+      key.includes(search.value)
+    );
+    return Object.fromEntries(q);
   }
 
-  return quizes
-
-})
+  return quizes;
+});
 </script>
 
 <template>
   <div class="container">
     <header>
       <h1>Quizzes</h1>
-      <input v-model.trim="search" type="text" placeholder="Search..">
+      <input v-model.trim="search" type="text" placeholder="Search.." />
     </header>
     <div class="option-container">
-      <RouterLink :to="`/category/${category}`" v-for="(quiz, category) in filteredQuizes" :key="category" class="card">
-        <img :src="quiz.image" alt="">
+      <RouterLink
+        :to="`/category/${category}`"
+        v-for="(quiz, category) in filteredQuizes"
+        :key="category"
+        class="card"
+      >
+        <img :src="quiz.image" alt="" />
         <div class="card-text">
           <h2>{{ category }}</h2>
           <p>{{ quiz.questions.length }} questions</p>
         </div>
       </RouterLink>
-
     </div>
-
   </div>
 </template>
 
-<style scoped> 
+<style scoped>
 .container {
   max-width: 1000px;
   padding-left: 1vw;
@@ -51,7 +55,6 @@ header {
   top: 0;
   background-color: white;
   z-index: 1;
-
 }
 
 header h1 {
@@ -77,11 +80,12 @@ header input {
 
 .card {
   flex-basis: 300px;
+  flex-grow: 1;
   overflow: hidden;
   text-decoration: none;
   color: currentColor;
   border-radius: 2%;
-  box-shadow: 1px 1px 10px rgba(0,0,0,0.1);
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.1);
   cursor: pointer;
 }
 
@@ -97,11 +101,10 @@ header input {
 }
 
 .card .card-text {
-  padding: .5rem 1rem;
+  padding: 0.5rem 1rem;
 }
 
-.card .card-text h2{
+.card .card-text h2 {
   font-weight: bold;
 }
-
 </style>
